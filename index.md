@@ -1,3 +1,3 @@
 [About](https://github.com/JamesLaFritz)
 
-[GraphViewBehaviorTree](https://jameslafritz.github.io/GraphViewBehaviorTree/)
+[GraphViewBehaviorTree](https://jameslafritz.github.io/GraphViewBehaviorTree/articles/README.html)
