@@ -1,3 +1,12 @@
+[About](https://github.com/JamesLaFritz)
+### Hi there 👋, my name is James LaFritz
+
+#### I am Unity Developer
+Excited about changing my hobby into a new carer with GameDevHQ course. Self Taught Unity Developer since 2010. Proven ability to work independently or in a team as well as maintaining high levels of productivity is looking for a quality workplace that is conducive to my skill set while also allowing for individual and company advancement that harbors growth within the field. 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+----
 <p align="center">
   <a href="https://jameslafritz.intensive.gamedevhq.com/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -9,17 +18,7 @@
   <img src="https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt"/>
 </p>
 
-##
-[About](https://github.com/JamesLaFritz)
-### Hi there 👋, my name is James LaFritz
-
-#### I am Unity Developer
-Excited about changing my hobby into a new carer with GameDevHQ course. Self Taught Unity Developer since 2010. Proven ability to work independently or in a team as well as maintaining high levels of productivity is looking for a quality workplace that is conducive to my skill set while also allowing for individual and company advancement that harbors growth within the field. 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-##
+----
 ### Skills:
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -31,7 +30,7 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 <img src="https://img.shields.io/badge/SOLID Design Principles-2C4F7C?style=for-the-badge&logo=Solid"/>
 </p>
 
-##
+----
 ### Github Projects:
 <a href="https://github.com/JamesLaFritz/Core Framework"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/CoreFramework-181717?style=for-the-badge"/></a><a href="https://jameslafritz.github.io/CoreFramework"><img src="https://img.shields.io/badge/Documentation-222222?style=for-the-badge&logo=GitHub Pages"/></a>
 <a href="https://github.com/JamesLaFritz/2021DevEnviromentTemplate"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/2021 Dev Enviroment Template-181717?style=for-the-badge"/></a><a href="https://jameslafritz.github.io/2021DevEnviromentTemplate"><img src="https://img.shields.io/badge/Documentation-222222?style=for-the-badge&logo=GitHub Pages"/></a>
@@ -47,7 +46,7 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 <a href="https://github.com/JamesLaFritz/Dungeon-Escape-Mobile"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/Dungeon Escape Mobile-181717?style=for-the-badge"/></a><a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
 
 
-##
+----
 ### Articles:
 #### General
 * [Singleton Pattern](https://blog.devgenius.io/game-programming-pattern-singleton-4a0070ca489b)
@@ -80,7 +79,7 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 #### Latest
 [![James LaFritz Medium](https://github-readme-medium-silk.vercel.app/?username=@ktmarine1999)](https://medium.com/@ktmarine1999)
 
-##
+----
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!---
