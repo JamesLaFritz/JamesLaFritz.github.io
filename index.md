@@ -1,9 +1,14 @@
-<a href="https://jameslafritz.intensive.gamedevhq.com/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-<a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
-  
-![James's GitHub stats](https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt)
+<p align="center">
+  <a href="https://jameslafritz.intensive.gamedevhq.com/"><img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/james-lafritz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://ktmarine1999.medium.com/"><img src="https://img.shields.io/badge/Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://ktmarine1999.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-jameslafritz.vercel.app/api?username=JamesLaFritz&show_icons=true&theme=cobalt"/>
+</p>
+
 ##
 [About](https://github.com/JamesLaFritz)
 ### Hi there 👋, my name is James LaFritz
@@ -19,11 +24,11 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 <p align="center">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Game Programming-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Game Programming-e4202e?style=for-the-badge"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Object Oriented Programming (OOP)-yellowgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Design Principles-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID Design Principles-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object Oriented Programming (OOP)-A5915F?style=for-the-badge"/> <img src="https://img.shields.io/badge/Design Principles-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLID Design Principles-2C4F7C?style=for-the-badge&logo=Solid"/>
 </p>
 
 ##
