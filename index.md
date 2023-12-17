@@ -32,7 +32,7 @@ Excited about changing my hobby into a new carer with GameDevHQ course. Self Tau
 
 ----
 ### Github Projects:
-<a href="https://github.com/JamesLaFritz/Core Framework"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/CoreFramework-181717?style=for-the-badge"/></a><a href="https://jameslafritz.github.io/CoreFramework"><img src="https://img.shields.io/badge/Documentation-222222?style=for-the-badge&logo=GitHub Pages"/></a>
+<a href="https://github.com/JamesLaFritz/CoreFramework2022"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/CoreFramework-181717?style=for-the-badge"/></a><a href="https://jameslafritz.github.io/CoreFramework2022"><img src="https://img.shields.io/badge/Documentation-222222?style=for-the-badge&logo=GitHub Pages"/></a>
 <a href="https://github.com/JamesLaFritz/2021DevEnviromentTemplate"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/2021 Dev Enviroment Template-181717?style=for-the-badge"/></a><a href="https://jameslafritz.github.io/2021DevEnviromentTemplate"><img src="https://img.shields.io/badge/Documentation-222222?style=for-the-badge&logo=GitHub Pages"/></a>
 
 <a href="https://github.com/JamesLaFritz/GraphViewBehaviorTree"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height=28/><img src="https://img.shields.io/badge/Graph View Behavior Tree-181717?style=for-the-badge"/></a><a href="https://jameslafritz.github.io/GraphViewBehaviorTree"><img src="https://img.shields.io/badge/Documentation-222222?style=for-the-badge&logo=GitHub Pages"/></a>
